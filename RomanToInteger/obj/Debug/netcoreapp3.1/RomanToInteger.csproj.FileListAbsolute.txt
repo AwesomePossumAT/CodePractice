@@ -1,0 +1,13 @@
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.exe
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.deps.json
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.runtimeconfig.json
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.runtimeconfig.dev.json
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.dll
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.pdb
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.csprojAssemblyReference.cache
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.AssemblyInfoInputs.cache
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.AssemblyInfo.cs
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.csproj.CoreCompileInputs.cache
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.dll
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.pdb
+C:\git\PracticeCodeAwesomePossum\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.genruntimeconfig.cache
